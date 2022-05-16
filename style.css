@@ -1,7 +1,28 @@
 * {
-    background-color: aqua;
+    background-color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-li {
+ul {
+    color: aqua;
+    list-style-type: none;
     text-decoration: none;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.bacon{
+    background-color: salmon;
+}
+
+h1{
+    color: black;
+    
 }
