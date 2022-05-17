@@ -1,4 +1,6 @@
 # odin-recipes
 First project
 
-from theodinproject.com
+https://justinbarrows.github.io/odin-recipes/
+
+- from theodinproject.com
