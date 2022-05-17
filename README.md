@@ -1,2 +1,4 @@
 # odin-recipes
-Odin html project
+First project
+
+from theodinproject.com
